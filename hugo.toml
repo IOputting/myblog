@@ -9,5 +9,5 @@ theme= 'PaperMod'
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   homeInfoParams:
-    Title: Hi there 
-    Content: [email](mailto:hi@ioputting.com)
+    Title = Hi there 
+    Content: = [email](mailto:hi@ioputting.com)
