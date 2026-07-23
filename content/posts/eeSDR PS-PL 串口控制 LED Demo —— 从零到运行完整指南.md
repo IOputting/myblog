@@ -1,5 +1,7 @@
 +++
-date = '{{ .Date }}' draft = true title = '{{ replace .File.ContentBaseName "-" " " | title }}' 
+date = '{{ .Date }}' 
+draft = false 
+title = '{{ replace .File.ContentBaseName "-" " " | title }}' 
 +++
 # eeSDR PS-PL 串口控制 LED Demo —— 从零到运行完整指南
 
