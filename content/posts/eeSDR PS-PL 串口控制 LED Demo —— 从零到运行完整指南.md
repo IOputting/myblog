@@ -1,7 +1,7 @@
 +++
-date = '{{ .Date }}' 
-draft = false 
-title = '{{ replace .File.ContentBaseName "-" " " | title }}' 
+date = "2026-07-23"
+draft = false
+title = "eeSDR PS-PL 串口控制 LED Demo —— 从零到运行完整指南"
 +++
 # eeSDR PS-PL 串口控制 LED Demo —— 从零到运行完整指南
 
