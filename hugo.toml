@@ -1,13 +1,14 @@
 baseURL = 'https://blog.ioputting.com/'
 languageCode = 'zh-cn'
 title = '输入输出'
-theme= 'PaperMod'
+theme = 'PaperMod'
 
 [params]
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  homeInfoParams:
-    Title = Hi there 
-    Content: = [email](mailto:hi@ioputting.com)
+
+[params.homeInfoParams]
+  Title = "Hi there"
+  Content = "[email](mailto:hi@ioputting.com)"
