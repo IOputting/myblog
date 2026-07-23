@@ -1,6 +1,4 @@
-+++ date = '2026-07-22T15:58:42+08:00' draft = false title = 'eeSDR PS-PL 串口控制 LED Demo —— 从零到运行完整指南'
-
-+++
++++ date = '{{ .Date }}' draft = true title = '{{ replace .File.ContentBaseName "-" " " | title }}' +++
 # eeSDR PS-PL 串口控制 LED Demo —— 从零到运行完整指南
 
 > **面向读者**：FPGA/Zynq 初学者，要求跟着操作就能跑通。
